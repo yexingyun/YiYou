@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="H:\ASwordspace\YiYou\easeui\build\intermediates\bundles\default\libs\hyphenatechat_3.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bb576a4fb2fdd4bcad2242d99902c9cf1451d38">
+        <dex dex="H:\ASwordspace\YiYou\app\build\intermediates\transforms\dex\debug\folders\1000\8\hyphenatechat_3.2.2_61ed20c37e4c2e9f1f62ad1939401600c773d0ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\ASwordspace\YiYou\easeui\build\intermediates\bundles\default\libs\HwPush_SDK_V2705_nomap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d68d22f9e4842e7ea73a667df0808babf6402704">
+        <dex dex="H:\ASwordspace\YiYou\app\build\intermediates\transforms\dex\debug\folders\1000\8\HwPush_SDK_V2705_nomap_ef4e12b5a9548d7413dd6977a47a498e3bba8158\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\ASwordspace\YiYou\app\libs\filechoose.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="30877bca7d1d9f09d7bc8b6ec3e6f5cf0fcf27fb">
+        <dex dex="H:\ASwordspace\YiYou\app\build\intermediates\transforms\dex\debug\folders\1000\2\filechoose_4f15c1ff5b59d15f79e27229e0a6bedd64717ccf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\ASwordspace\YiYou\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a48da2154e9d732f525de9bcbfdaed9cbe071cd">
+        <dex dex="H:\ASwordspace\YiYou\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_a9ac776afd881cc69fe3f0c3a245ca28b30dce66\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\ASwordspace\YiYou\easeui\build\intermediates\bundles\default\libs\android-support-v4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aaa9bc27cf2226482875d769ac45286970935b21">
+        <dex dex="H:\ASwordspace\YiYou\app\build\intermediates\transforms\dex\debug\folders\1000\8\android-support-v4_e18c907e25b5619c0253f58a53ae00827dcda909\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\ASwordspace\YiYou\easeui\build\intermediates\bundles\default\libs\MiPush_SDK_Client_2_2_19.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6231c3f3409df7b3172bc5e89f68fbc6beec733e">
+        <dex dex="H:\ASwordspace\YiYou\app\build\intermediates\transforms\dex\debug\folders\1000\8\MiPush_SDK_Client_2_2_19_a6fb9f6a34f14f30b4ee9d9b0d0e18e10a6f9692\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\ASwordspace\YiYou\easeui\build\intermediates\bundles\default\libs\google-play-services.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dc8ba9e80c63fa62ffe4130ae3487a2ec25912ef">
+        <dex dex="H:\ASwordspace\YiYou\app\build\intermediates\transforms\dex\debug\folders\1000\8\google-play-services_cd5ad0d72d2d3d968b6845c95da79c982a3ec22d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\ASwordspace\YiYou\easeui\build\intermediates\bundles\default\libs\glide-3.6.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="015a639bd9933f4f812be8bede14f14bd1bdea8b">
+        <dex dex="H:\ASwordspace\YiYou\app\build\intermediates\transforms\dex\debug\folders\1000\8\glide-3.6.1_0441048bb4d3cea52ce55a927c5728379660c534\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\ASwordspace\YiYou\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="H:\ASwordspace\YiYou\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_26664df7df7cdd81c286092de604f892013cdc7b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\ASwordspace\YiYou\easeui\build\intermediates\bundles\default\libs\BaiduLBS_Android.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f1d3eb83228ace176170b6c5c9fa3b792011581b">
+        <dex dex="H:\ASwordspace\YiYou\app\build\intermediates\transforms\dex\debug\folders\1000\8\BaiduLBS_Android_9a2558c2f8db1b877c65bf96041feefa567272e0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\ASwordspace\YiYou\easeui\build\intermediates\bundles\default\libs\org.apache.http.legacy.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="49bc2d83ccb0cfe1dbc853e3ba80db0f950ed96d">
+        <dex dex="H:\ASwordspace\YiYou\app\build\intermediates\transforms\dex\debug\folders\1000\8\org.apache.http.legacy_1a05caa94d7ef816c233b4bf8a92d642ad6948b0\classes.dex" />
+    </item>
+
+</items>

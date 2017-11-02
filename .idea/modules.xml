@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/YiYou.iml" filepath="$PROJECT_DIR$/YiYou.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/easeui/easeui.iml" filepath="$PROJECT_DIR$/easeui/easeui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/new/new.iml" filepath="$PROJECT_DIR$/new/new.iml" />
+      <module fileurl="file://$PROJECT_DIR$/newsSearch/newsSearch.iml" filepath="$PROJECT_DIR$/newsSearch/newsSearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/newsearch/newsearch.iml" filepath="$PROJECT_DIR$/newsearch/newsearch.iml" />
+    </modules>
+  </component>
+</project>

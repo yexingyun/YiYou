@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">易友</string>
+    <string name="refuse">拒绝</string>
+    <string name="join_need_owner_approval">加入公开群需要群主同意</string>
+    <string name="invite_join_group">邀请加入群：</string>
+    <string name="group_nick">群名称</string>
+    <string name="group_owner">群主</string>
+    <string name="messages_are_empty">聊天记录已被清空</string>
+    <string name="vdc">如果给你个机会回到五年前，
+                你会对五年前的自己说什么呢？
+                五年前的你也许正徘徊在高考的浪尖上；
+                五年前的你也许正开始着你的暗恋，喜欢某个人，
+                却傻傻地不敢表白；五年前的你也许正是叛逆的时期，
+                每天任性地做着自己想做的事情，而不顾父母的念叨，
+                最终偏离了青春的轨道；五年前的你……</string>
+</resources>

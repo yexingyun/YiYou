@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <!--标题栏
+    <include layout="@layout/titlebar"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        />
+        -->
+
+    <FrameLayout
+        android:id="@+id/fl_main_content"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1" />
+
+    <!--底部导航栏-->
+    <RadioGroup
+        android:id="@+id/rg_bottom_tag"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#11000000"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:padding="3dp">
+
+        <RadioButton
+            android:id="@+id/rb_home"
+            style="@style/bottom_tag_style"
+            android:layout_weight="1"
+            android:drawableTop="@drawable/rb_home_drawable_selector"
+            android:text="首页" />
+
+        <RadioButton
+            android:id="@+id/rb_mesg"
+            style="@style/bottom_tag_style"
+            android:layout_weight="1"
+            android:drawableTop="@drawable/rb_me_drawable_selector"
+            android:text="消息" />
+
+        <RadioButton
+            android:id="@+id/rb_vdc"
+            style="@style/bottom_tag_style"
+            android:layout_weight="1"
+            android:drawableTop="@drawable/rb_mesg_drawable_selector"
+            android:text="表白墙"
+            android:layout_height="wrap_content" />
+
+        <RadioButton
+            android:id="@+id/rb_me"
+            style="@style/bottom_tag_style"
+            android:layout_weight="1"
+            android:drawableTop="@drawable/rb_vdca_drawable_selector"
+            android:text="我的" />
+
+
+    </RadioGroup>
+</LinearLayout>
